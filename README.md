@@ -1,6 +1,6 @@
 # Chrome Extension
 
-This project is a simple Chrome Extension built as part of the Scrimba JavaScript course. The extension enhances your browsing experience by providing additional functionalities tailored to users' needs.
+This project is a simple Chrome Extension built as part of the Scrimba JavaScript course. The project helps the user to save active tabs or save using the input field and use them in future. 
 
 ## Features
 
