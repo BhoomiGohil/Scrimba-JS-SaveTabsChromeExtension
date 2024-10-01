@@ -26,7 +26,7 @@ This project is a simple Chrome Extension built as part of the Scrimba JavaScrip
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseChromeExtension.git
+git clone https://github.com/BhoomiGohil/Scrimba-JS-SaveTabsChromeExtension.git
 ```
 
 2. Navigate to the Chrome Extensions page by typing `chrome://extensions` in the address bar.
