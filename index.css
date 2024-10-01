@@ -20,6 +20,10 @@ button {
   font-weight: bold;
 }
 
+#container {
+  width: 400px;
+}
+
 #delete-btn {
   background: white;
   color: #5f9341;
